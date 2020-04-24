@@ -1,6 +1,6 @@
 # Plane-War
 
-![](C:\Users\16325\Desktop\计算机类四班  郁严贵\GamePlay.png)
+
 
 ### 游戏说明：
 
