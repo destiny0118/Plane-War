@@ -1,6 +1,6 @@
 # Plane-War
 
-![GamePlay](https://raw.githubusercontent.com/destiny0118/picgo/master/img/202206041827418.png)
+![GamePlay](https://cdn.jsdelivr.net/gh/destiny0118/picgo/pic/202206041827418.png)
 
 ### 游戏说明：
 
